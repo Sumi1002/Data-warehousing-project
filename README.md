@@ -1,1 +1,1 @@
-# Data-warehousing-project
+# Data-warehousing-project (RFM segmentation - Retail data)
